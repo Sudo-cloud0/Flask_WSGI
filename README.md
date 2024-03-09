@@ -1,5 +1,7 @@
 # Flask_WSGI
 
+## Update the Nginx sites-Available defalt file and add these lines..
+
 ```nginx
 server {
     listen 80;
