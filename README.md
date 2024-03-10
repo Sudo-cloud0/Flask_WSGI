@@ -14,7 +14,7 @@ server {
         proxy_set_header X-Forwarded-for $proxy_add_x_forwarded_for;
     }
 }
-
+```
 ## Gunicorn wsgi server
 
 ``` 
